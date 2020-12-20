@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cnyali-codecode.github.io</id>
     <title>Codecode</title>
-    <updated>2020-12-20T08:42:58.993Z</updated>
+    <updated>2020-12-20T08:51:24.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cnyali-codecode.github.io"/>
     <link rel="self" href="https://cnyali-codecode.github.io/atom.xml"/>
@@ -10,26 +10,6 @@
     <logo>https://cnyali-codecode.github.io/images/avatar.png</logo>
     <icon>https://cnyali-codecode.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Codecode</rights>
-    <entry>
-        <title type="html"><![CDATA[友链]]></title>
-        <id>https://cnyali-codecode.github.io/post/you-lian-andguang-gao/</id>
-        <link href="https://cnyali-codecode.github.io/post/you-lian-andguang-gao/">
-        </link>
-        <updated>2020-12-20T08:27:26.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="友链">友链</h2>
-<ul>
-<li><a href="https://imgchr.com"><strong>Imgchr</strong></a></li>
-<li><a href="https://csacademy.com/app/graph_editor"><strong>GraphEditor</strong></a></li>
-<li><a href="http://bytew.net/OIer/"><strong>OIerdb</strong></a></li>
-<li><a href="https://www.luogu.com.cn/blog/IowaBattleship/latex-ru-men"> <strong>LaTeX1</strong></a></li>
-<li><a href="https://www.luogu.com.cn/blog/IowaBattleship/latex-gong-shi-tai-quan"><strong>LaTeX2</strong></a></li>
-<li><a href="https://lk.yali.edu.cn/"><strong>LKOJ</strong></a></li>
-<li><a href="https://quick-bench.com/q/eP40RY6zDK-eJFdSSPBINa0apTM"><strong>C++ quick-bench</strong></a></li>
-</ul>
-<h2 id="广告">广告</h2>
-<p>广告位招租。</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://cnyali-codecode.github.io/post/hello-gridea/</id>
