@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cnyali-codecode.github.io</id>
     <title>Codecode</title>
-    <updated>2020-12-20T07:56:38.709Z</updated>
+    <updated>2020-12-20T08:09:24.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cnyali-codecode.github.io"/>
     <link rel="self" href="https://cnyali-codecode.github.io/atom.xml"/>
-    <subtitle>Cu+Al=Au+Cl</subtitle>
+    <subtitle>Welcome to &lt;a href=&quot;https://cnyali-codecode.github.io&quot;target=&quot;_blank&quot;&gt;cnyali-codecode.github.io&lt;/a&gt;</subtitle>
     <logo>https://cnyali-codecode.github.io/images/avatar.png</logo>
     <icon>https://cnyali-codecode.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Codecode</rights>
